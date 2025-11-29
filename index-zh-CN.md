@@ -2,7 +2,7 @@
 layout: page
 title: "Keep Android Open"
 lang: zh-CN
-permalink: /cn/
+permalink: /zh-CN/
 description: "倡导将Android作为一个免费、开发的平台以供大家构建应用程序。"
 
 # localizable sections for the footer text
