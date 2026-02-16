@@ -183,7 +183,7 @@ Jika Anda adalah karyawan Google atau kontraktor yang memiliki integritas dan me
 - Berikan umpan balik langsung kepada Google melalui survei persyaratan verifikasi pengembang Android mereka [Survei Persyaratan Verifikasi Pengembang Android](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Sampaikan pendapat Anda di media sosial dan melalui posting blog, dan tautkan ke <https://keepandroidopen.org>
 - Berantas pemasaran astroturf: ketika Anda menemui postingan mencurigakan di forum komunitas dan media sosial yang mendukung kebijakan tersebut (“Nah, sebenarnya...”), tantanglah mereka dan jangan ragu-ragu.
-- Bantu proyek ini dengan [mengedit halaman ini](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/index.md) dengan informasi yang lebih berguna.
+- Bantu proyek ini dengan [mengedit halaman ini](https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/src/content/pages/id/index.md) dengan informasi yang lebih berguna.
 - [Tandatangani petisi change.org ini.](https://www.change.org/p/stop-google-from-limiting-apk-file-usage?recruiter=1370041382&recruited_by_id=fddec6e0-0e30-11f0-a55d-cd0eb0fd0ac4)
 
 #### Hubungi Kelompok-Kelompok Hak Konsumen/Digital Ini
