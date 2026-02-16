@@ -45,11 +45,7 @@ This registration will involve:
 
 ### Konsumen: Hubungi regulator nasional {#consumers}
 
-Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition.
-
 Regulator di seluruh dunia benar-benar khawatir tentang monopoli dan konsentrasi kekuasaan di sektor teknologi, dan ingin mendengarkan langsung dari individu yang terdampak dan yang merasa khawatir. Saat menghubungi regulator secara langsung, Anda harus bersikap _sopan_ dan _spesifik_ mengenai dampak negatif yang Anda yakini akan ditimbulkan oleh kebijakan-kebijakan ini, baik bagi konsumen maupun persaingan.
-
-Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the Pos-el is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them.
 
 Keluhan memiliki dampak yang lebih besar ketika diajukan oleh warga negara atau wilayah tersebut, dan ketika bahasa Pos-el ditulis dalam salah satu bahasa resmi badan pemerintahan wilayah tersebut. Minta _konfirmasi tertulis_ atas keluhan tersebut, dan pertimbangkan untuk meneruskan tanggapan yang Anda terima ke [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) agar kami dapat menyoroti dan merujuknya.
 
