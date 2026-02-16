@@ -3,6 +3,7 @@ export const languages = {
   fr: { label: 'Français', path: '/fr/' },
   de: { label: 'Deutsch', path: '/de/' },
   es: { label: 'Español', path: '/es/' },
+  id: { label: 'Indonesia', path: '/id/' },
   it: { label: 'Italiano', path: '/it/' },
   'pt-BR': { label: 'Português', path: '/pt-BR/' },
   cs: { label: 'Čeština', path: '/cs/' },
